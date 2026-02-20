@@ -13,6 +13,7 @@ class Test4ApplicationTests {
 		char x = 'a';
 		int y = 200;
 		double z = 10.3
+		char ch = 'x';	
 
 	@Test
 	void contextLoads() {
