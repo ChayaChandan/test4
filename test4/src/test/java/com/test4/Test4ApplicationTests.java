@@ -12,7 +12,8 @@ class Test4ApplicationTests {
 		int y = 200;
 		char x = 'a';
 		int y = 200;
-		double z = 10.3
+		double z = 10.3;
+        boolean isSub = true;
 
 	@Test
 	void contextLoads() {
